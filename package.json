@@ -1,0 +1,22 @@
+{
+  "name": "simple-get-requests",
+  "version": "1.0.0",
+  "description": "Solo passthrough of this Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdolan1125/simple-get-requests-solocatchupweek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdolan1125/simple-get-requests-solocatchupweek/issues"
+  },
+  "homepage": "https://github.com/bdolan1125/simple-get-requests-solocatchupweek#readme",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  }
+}
